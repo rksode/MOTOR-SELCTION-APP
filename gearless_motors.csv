@@ -1,9 +1,0 @@
-Model,Type,Capacity_KG,Speed_mps,Sheave,Power_kW,Current_A,Operating_Current_A,Break_Voltage_VDC,Max_Travel_m
-MGI27S,Gearless,408,1.0,320 4X8mm,3.1,11.0,9.0,207,
-MGI27M,Gearless,544,1.0,320 4X8mm,4.8,15.0,12.0,207,
-MGI27M,Gearless,680,1.0,320 5X8mm,4.8,15.0,15.0,207,
-MGI27ML,Gearless,884,1.0,320 6X8mm,6.8,19.0,17.0,207,
-MGI27ML,Gearless,1020,1.0,320 6X8mm,6.8,19.0,19.0,207,
-MGI27L,Gearless,1224,1.0,320 7X8mm,7.9,25.0,25.0,207,
-MGI37S,Gearless,1600,1.0,320 8X8mm,10.2,27.1,,207,
-MGI37M,Gearless,2000,1.0,320 10X8mm,13.2,30.0,,207,

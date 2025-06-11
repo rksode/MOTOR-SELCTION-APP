@@ -1,0 +1,5 @@
+Model,Capacity_KG,Speed_mps,Sheave,Power_kW,Current_Amps,Break_Voltage,Roping
+MGI27S,408,1.0,320 4X8mm,3.1,11,207,1:1
+MGI27ML,884,1.0,320 6X8mm,6.8,19,207,1:1
+MGI37M,2000,1.0,320 10X8mm,13.2,30,207,1:1
+MDG100,1000,1.0,100 X4 Belts,6.6,25.1,207,1:1

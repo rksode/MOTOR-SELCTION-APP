@@ -1,0 +1,7 @@
+Model,Type,Capacity_KG,Speed_mps,Sheave,Power_kW,Current_A,Break_Voltage_VDC,Max_Travel_m
+M67_1/37,Geared,408,1.0,520 3X13,4.0,8.7,110,24
+M77_1/55,Geared,544,1.0,520 3X13,5.5,14.2,110,30
+M77H_1/37,Geared,680,1.0,520 4X13,7.5,16.8,110,30
+M87_1/37,Geared,884,1.0,480 5X10mm,9.0,20.4,110,36
+M93_1/39,Geared,1020,1.0,520 5X13mm,11.0,25.0,110,45
+M98_1/37,Geared,1500,1.0,520 6X13mm,18.5,40.5,110,45
